@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+
+# Legacy output directory from simulation.py
+simulation_results/
